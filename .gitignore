@@ -1,4 +1,8 @@
-# Prerequisites
+# repo specific
+*.LLVM.txt
+*.pyc
+
+# # Prerequisites
 *.d
 
 # Object files
